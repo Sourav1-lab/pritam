@@ -12,7 +12,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 DB_FILE = "database.json"
 BASE_URL = "https://panthers.accbazaar.shop"
 HEADERS = {
-    "X-API-Key": "panthers_SN4bt4pOOj8ge5gghFwD_c8kambO2--vo4yfcA",
+    "X-API-Key": "panthers_tZlbN4-RO2T3NejQ4zqHd8V9sdWv2fYIMJks8Q",
     "Content-Type": "application/json"
 }
 
